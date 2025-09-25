@@ -1,0 +1,3 @@
+id,regNo,fullName,email,status,createdDate
+s1,REG2025001,Arjun Kumar,arjun@example.com,ACTIVE,2025-09-01
+s2,REG2025002,Meera Jain,meera@example.com,ACTIVE,2025-09-02
