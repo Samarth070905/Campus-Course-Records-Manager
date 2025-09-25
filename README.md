@@ -31,6 +31,7 @@ Options: Students, Courses, Enrollments, Grades, Import/Export, Backup, Reports,
 
 
 🛠️ Tech Stack
+
 Java SE 24
 Maven 3.9+
 Uses: Java Streams, NIO.2, Date/Time API, OOP principles, Design Patterns
